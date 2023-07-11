@@ -6,3 +6,5 @@ const store = configureStore({
         greetings: greetingsReducer,
     },
 });
+
+export default store;
