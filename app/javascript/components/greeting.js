@@ -4,7 +4,7 @@ import { fetchMessage } from '../redux/greetings/greetingsSlice';
 import { useEffect } from 'react';
 
 
-const Home = () => {
+const Greeting = () => {
     const { message, loading, fetched, error } = useSelector(
         (state) => state.greetings
     );
