@@ -30,4 +30,4 @@ const Greeting = () => {
     );
 }
 
-export default Home;
+export default Greeting;
