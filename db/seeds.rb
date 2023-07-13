@@ -1,0 +1,5 @@
+Greeting.create(message: "Hello, World!")
+Greeting.create(message: "Goodbye, World!")
+Greeting.create(message: "Hello, Rails!")
+Greeting.create(message: "Goodbye, Rails!")
+Greeting.create(message: "Hello, Ruby!")
